@@ -65,6 +65,7 @@ int main() {
 
 	printf("So hard..");
 
+
 	printf("I'm so .....")
 
 	
@@ -72,6 +73,8 @@ int main() {
 	printf("HaHaHa..!");
 		
 	printf("Complete");	
+	printf("리중딱 리중딱 씐나는노래~");
+	printf("나도한 번 불러본다~~");
 
 	return 1;
 }
