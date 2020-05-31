@@ -70,5 +70,8 @@ int main() {
 	
 	printf("Why so serious??");
 	printf("HaHaHa..!");
+		
+	printf("Complete");	
+
 	return 1;
 }
