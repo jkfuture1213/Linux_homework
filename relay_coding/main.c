@@ -70,5 +70,8 @@ int main() {
 	
 	printf("Why so serious??");
 	printf("HaHaHa..!");
+
+        printf("\nI'm stupid are you? I do homework now so sad\n ");
+        printf("time is pm 10:23 now. I don't know what i'm doing\n"); 
 	return 1;
 }
