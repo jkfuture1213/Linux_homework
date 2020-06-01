@@ -65,13 +65,19 @@ int main() {
 
 	printf("So hard..");
 
+
 	printf("I'm so .....")
 
 	
 	printf("Why so serious??");
 	printf("HaHaHa..!");
 
-        printf("\nI'm stupid are you? I do homework now so sad\n ");
-        printf("time is pm 10:23 now. I don't know what i'm doing\n"); 
+  printf("\nI'm stupid are you? I do homework now so sad\n ");
+  printf("time is pm 10:23 now. I don't know what i'm doing\n"); 
+		
+	printf("Complete");	
+	printf("리중딱 리중딱 씐나는노래~");
+	printf("나도한 번 불러본다~~");
+
 	return 1;
 }
