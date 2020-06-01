@@ -71,6 +71,9 @@ int main() {
 	
 	printf("Why so serious??");
 	printf("HaHaHa..!");
+
+  printf("\nI'm stupid are you? I do homework now so sad\n ");
+  printf("time is pm 10:23 now. I don't know what i'm doing\n"); 
 		
 	printf("Complete");	
 	printf("리중딱 리중딱 씐나는노래~");
