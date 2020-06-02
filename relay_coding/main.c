@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-	printf("hello world!\n");
-	printf("bye world!\n");
+	printf("Fun하고 Cool한 linux coding\n");
+	
 }
