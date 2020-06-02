@@ -82,5 +82,8 @@ int main() {
     printf("Hello world\n");
     printf("Hello Hello\n");
 
+	printf("Hello my world!!\n");
+	printf("Bye\n");
+
 	return 1;
 }
