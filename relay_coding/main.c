@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+	printf("Hello world!\n");
+	printf("Bye world!\n");
 	printf("my name is linfengfei.\n");
 	printf("Hi!\n");
 	printf("What's up buddy?\n");
@@ -83,6 +85,12 @@ int main() {
     printf("Hello Hello\n");
 	
 	printf("Fun하고 Cool한 linux coding\n");
+    printf("i have 3 more homework :(");
+
+	printf("Hello my world!!\n");
+	printf("Bye\n");
+	printf("두둥탁\n");
+	printf("두둥두둥탁\n");
 
 	return 1;
 }
