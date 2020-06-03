@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+	printf("Hello world!\n");
+	printf("Bye world!\n");
 	printf("my name is linfengfei.\n");
 	printf("Hi!\n");
 	printf("What's up buddy?\n");
