@@ -84,6 +84,7 @@ int main() {
     printf("Hello world\n");
     printf("Hello Hello\n");
 	
+	printf("Fun하고 Cool한 linux coding\n");
     printf("i have 3 more homework :(");
 
 	printf("Hello my world!!\n");
