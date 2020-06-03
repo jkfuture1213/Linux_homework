@@ -93,6 +93,6 @@ int main() {
 	printf("두둥두둥탁\n");
 	
 
-	printf("So many homeworks make me tired")
-	return 1;
-
+	printf("So many homeworks make me tired\n");
+	return 0;
+}
