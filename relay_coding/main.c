@@ -92,5 +92,24 @@ int main() {
 	printf("두둥탁\n");
 	printf("두둥두둥탁\n");
 
+
+
+	// making triangle
+
+	for(int i = 0; i < 5; ++i)
+	{
+		for(int j = 0; j <= i; ++j) printf("*");
+		printf("\n");
+	}
+	// noob
+
+	printf("*\n");
+	printf("**\n");
+	printf("***\n");
+	printf("****\n");
+	printf("*****\n");
+	// gosu
+
+
 	return 1;
 }
