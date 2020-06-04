@@ -91,6 +91,8 @@ int main() {
 	printf("Bye\n");
 	printf("두둥탁\n");
 	printf("두둥두둥탁\n");
+	
 
-	return 1;
+	printf("So many homeworks make me tired\n");
+	return 0;
 }
