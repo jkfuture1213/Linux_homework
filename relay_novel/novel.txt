@@ -1,4 +1,6 @@
 long long time ago,,,,,,
+
+=======
 hello my name is zgr
 i like linux 
 
@@ -12,7 +14,7 @@ i do this homework in HOLLYS COFEE 24th
 다음 강의 조교 선택
 1.한경민 4
 2.최성훈 1
-3.강조명 0
+3.강조명 1
 다음 강의에서 듣고 싶은 조교님의 숫자를 증가시켜주세요.
 ------------------------------------------------------------
 미안하다 이거 보여주려고 어그로 끌었다...
@@ -135,4 +137,9 @@ What I thought of the novel(A ridiculus tale)
 이걸 보고 있다면
 니들도 도망가것지
 ==============================================================
+long long time ago....
 
+There is a girl who uninstall the Ubuntu before 2 days.
+Because Unbuntu has some lack of internet. 
+
+I can't write Korean.... How can I do this...;;;;
