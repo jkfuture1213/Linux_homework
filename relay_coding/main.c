@@ -91,7 +91,10 @@ int main() {
 	printf("Bye\n");
 	printf("두둥탁\n");
 	printf("두둥두둥탁\n");
+	printf("I need summer vacation\n");
+	
 
+	printf("So many homeworks make me tired\n");
 
 
 	// making triangle
