@@ -92,7 +92,27 @@ int main() {
 	printf("두둥탁\n");
 	printf("두둥두둥탁\n");
 	printf("I need summer vacation\n");
-	
+
+
+	printf("So many homeworks make me tired\n");
+
+
+	// making triangle
+
+	for(int i = 0; i < 5; ++i)
+	{
+		for(int j = 0; j <= i; ++j) printf("*");
+		printf("\n");
+	}
+	// noob
+
+	printf("*\n");
+	printf("**\n");
+	printf("***\n");
+	printf("****\n");
+	printf("*****\n");
+	// gosu
+
 
 	printf("So many homeworks make me tired\n");
 	return 0;
